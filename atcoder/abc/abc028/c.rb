@@ -1,0 +1,1 @@
+p gets.split.map(&:to_i).combination(3).map{|x|x.inject(&:+)}.sort[-3]

@@ -1,0 +1,1 @@
+p gets.not_nil!.split.map(&.to_i).combinations(2).map{|(a,b)| a+b}.min

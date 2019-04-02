@@ -1,0 +1,8 @@
+__pycache__
+*.out
+*.dSYM
+.DS_Store
+*.in
+node_modules/
+.sass-cache/
+*.swp

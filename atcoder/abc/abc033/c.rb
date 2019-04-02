@@ -1,0 +1,1 @@
+p gets.split("+").select{|x| eval(x)>0}.size
